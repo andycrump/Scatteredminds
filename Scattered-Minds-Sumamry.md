@@ -1,4 +1,3 @@
-```markdown
 # 1-Page Summary
 
 In his 1999 book [*Scattered Minds*](https://www.penguinrandomhouse.com/books/734461/scattered-minds-by-gabor-mate-md/), Gabor Maté argues that if you have ADHD, it’s because early childhood stress prevented you from developing the emotional-cognitive capacities you need to thrive in our world. Further, since ADHD isn’t *just* a biological disorder but one with social and psychological roots, he argues that medication isn’t the best or only way to treat your ADHD. Based on this perspective, he prescribes non-pharmaceutical treatments for both adults and children with ADHD and explains how society can prevent ADHD in future generations.
